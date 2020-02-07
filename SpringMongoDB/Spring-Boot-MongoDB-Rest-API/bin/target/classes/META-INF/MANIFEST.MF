@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: logesh
+Build-Jdk: 13.0.1
+Implementation-Title: spring-boot-mongodb-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.varun.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-mongodb-example
+Created-By: Maven Integration for Eclipse
+
